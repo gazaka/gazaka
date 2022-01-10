@@ -4,6 +4,7 @@ I’m interested in learning new things
 I’m currently learning to program
 
 Planning to use C++ although I've been told to try JavaScript first
+
 Had used Game Maker Studio a long time ago but this is all fresh to me
 
 <!---
