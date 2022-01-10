@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gazaka
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning learning
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me... learning
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning to learn
+- 💞️ I’m looking to collaborate on how best to learn
+- 📫 You can reach me on on here
 
 <!---
 gazaka/gazaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
