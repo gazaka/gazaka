@@ -1,11 +1,9 @@
 Hi, I’m @gazaka
 
 I’m interested in learning new things
-I’m currently learning to program
+I’ve wanted to learn to make my own games or programs
 
-Planning to use C++ although I've been told to try JavaScript first
-
-Had used Game Maker Studio a long time ago but this is all fresh to me
+This is my journey
 
 <!---
 gazaka/gazaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
