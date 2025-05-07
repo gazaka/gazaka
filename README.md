@@ -1,9 +1,9 @@
 Hi, I’m @gazaka
 
 I’m interested in learning new things
-I’ve wanted to learn to make my own games or programs
+I tinker with things I probably do not fully understand, with a view to trying to make sense of them. 
 
-This is my journey
+Interests include but not limited to coffee, pizza and various computer magic
 
 <!---
 gazaka/gazaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
